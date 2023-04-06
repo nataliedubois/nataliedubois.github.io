@@ -1,0 +1,8 @@
+---
+title: "About Natalie DuBois"
+author: "Natalie DuBois"
+format: gfm
+editor: visual
+---
+
+## 
